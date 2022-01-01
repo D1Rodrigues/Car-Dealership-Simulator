@@ -1,5 +1,4 @@
 /**
- * Dylan Rodrigues, student number: 500881797
  * ElectricCar class extends Car, describes the behaviour of an electric car, and
  * has new instance variables connected to minutiae of an electric car.
  */
