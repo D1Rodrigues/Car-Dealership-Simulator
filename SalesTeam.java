@@ -2,7 +2,6 @@ import java.util.LinkedList;
 import java.util.ListIterator;
 import java.util.Random;
 /**
- * Dylan Rodrigues, student number: 500881797.
  * The SalesTeam class contaims an arraylist of salesperson names.
  * Contains methods that manipulate this arraylist.
  */
