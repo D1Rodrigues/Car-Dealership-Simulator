@@ -4,7 +4,6 @@ import java.util.Collections;
 import java.util.GregorianCalendar;
 import java.util.Random;
 /**
- * Dylan Rodrigues, student number: 500881797. 
  * CarDealership class creates an object that simulates the behaviour of a car dealership.
  **/
 public class CarDealership {
