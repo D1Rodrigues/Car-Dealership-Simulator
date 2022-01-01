@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 /**
- * Dylan Rodrigues, student number: 500881797.
  * CarDealershipSimulator models a car dealership, simulating the purchasing and returning of cars.
  * Adds cars into an arraylist using scanner and input file; catches any exceptions.
  * Displays, buy, returns, etc. based on user commands.
