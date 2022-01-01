@@ -4,8 +4,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 /**
- * Dylan Rodrigues, student number: 500881797, Mar. 6, 2019. Vehicle class
- * implements an object that behaves like a vehicle.
+ * Vehicle class implements an object that behaves like a vehicle.
  */
 public class Vehicle {
     // instance variables
