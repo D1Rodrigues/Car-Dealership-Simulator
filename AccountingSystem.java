@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Random;
 import java.util.Set;
 /**
- * Dylan Rodrigues, student id: 500881797. April 4, 2019. The Accounting System
+ * April 4, 2019. The Accounting System
  * class receives and holds an arraylist of Transaction objects. It includes
  * various other methods that are needed when working with Transaction objects.
  */
