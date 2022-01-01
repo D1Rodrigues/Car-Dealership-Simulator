@@ -1,7 +1,5 @@
 import java.util.Comparator;
 /**
- * Dylan Rodrigues,
- * student number: 500881797, 
  * Car class extends the Vehicle class, implements the Comparable interface,
  * and describes an object that behaves like a car.
  */
