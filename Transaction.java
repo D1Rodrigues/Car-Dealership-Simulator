@@ -1,8 +1,6 @@
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 /**
- * Dylan Rodrigues, student number: 500881797.
- * Apr. 3, 2019.
  * The Transaction object stores information about the purchase 
  * of an car or its return.
  */
